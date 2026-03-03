@@ -27,7 +27,7 @@ public class TestDemo21 {
 			System.out.println("static block3 called");
 		}
 		{
-			System.out.println("instance block1 called");		
+			System.out.println("instance block1 called");//it runs everytime object is created		
 		}
 //		{
 //			System.out.println("instance block2 called");
